@@ -62,7 +62,7 @@
     /*itskills start*/
     .itskills-banner h1 {font-size: 34px;}
     .itskills-banner {min-height: 18em;padding-top: 11em;}
-    .info-itskills {border-radius: 45% 0% 45% 0px;padding: 35px;min-height: 12.5em;}
+    .info-itskills {border-radius: 45% 0% 45% 0px;padding: 35px;min-height: 22.5em;}
     .list-group li {list-style-type: circle;text-align: justify;font-size: 12px; padding-bottom: 16px;}
     .info-itskills1 {border-radius: 40% 0% 40% 0%;padding: 24px;    background: cadetblue;min-height: 18.5em; transition: transform 1s, filter .5s ease-out;}
     .info-itskills1 p {padding: 25px 0;font-size: 15px;text-align: justify;}
